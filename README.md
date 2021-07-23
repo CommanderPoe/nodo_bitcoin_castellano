@@ -44,14 +44,14 @@ ___
 
 **Hardware Recomendado por [*Umbrel*](https://getumbrel.com/#start):** €217,62
 
-Con respecto al hardware recomendado por Umbrel, al ser links principalmente de Amazon . com me redirige a esa tienda. Algunos de los links que comparto no son especificaménte los recomendados por el equipo pero son los más similares que encontré por marca y características. 
+Con respecto al hardware recomendado por Umbrel, los links redirigen a Amazon . com. Por lo tanto lo compartido no son especificaménte los recomendados por el equipo Umbrel pero son los más similares que encontré por marca y características. 
 
-- RaspberryPi 4 4GB (o 8GB) [*Amazon ES link*](https://www.amazon.es/dp/B07TC2BK1X) 
-- Fuente de alimentación USB-C, 5.1V, >=3A [*Amazon ES link*](https://www.amazon.es/dp/B07TZ89BT7)
-- Crucial MX500 1TB (3D NAND, SATA, 2.5") [*Amazon ES link*](https://www.amazon.es/dp/B077SF8KMG)
-- Carcasa SSD - ORICO 2.5" Externa USB 3.0 con UASP para HDD [*Amazon ES link*](https://www.amazon.es/dp/B08B5W9HB6)
-- MicroSD 32GB - Samsung PRO Endurance microSDHC UHS-I U1 [*Amazon ES link*](https://www.amazon.es/dp/B07CY3QSST)
-- Setronics - Caja Negra Armor Case [*Amazon ES link*](https://www.amazon.es/dp/B07VP6GB4G)
+- RaspberryPi 4 4GB (o 8GB) | **4GB = €71.83, 8GB = €92.50** [*Amazon ES link*](https://www.amazon.es/dp/B07TC2BK1X) 
+- Crucial MX500 1TB (3D NAND, SATA, 2.5") | **€90.26** [*Amazon ES link*](https://www.amazon.es/dp/B077SF8KMG)
+- Carcasa ORICO Disco Duro 2,5" USB 3 Gen 2 | **€20.99** [*Amazon ES link*](https://www.amazon.es/ORICO-Carcasa-Disco-Externo-Sopporta/dp/B07NYC6LKB)
+- MicroSD 16GB+ - Samsung PRO Endurance microSDHC UHS-I U1 | **€13.99** [*Amazon ES link*](https://www.amazon.es/dp/B07CY3QSST)
+- Fuente de alimentación USB-C, 5.1V, >=3A | **€11.70** [*Amazon ES link*](https://www.amazon.es/dp/B07TZ89BT7)
+- Carcasa Flirc Raspberry Pi 4 | **€21.90** [*Amazon ES link*](https://www.amazon.es/Flirc-Raspberry-Pi-4-Case/dp/B07WG4DW52)
 
 Opcional aconsejado por raspiblitz, pantallas LCD (solo si te decides por este proyecto):
 - LCD - 3.5" RPi Display, GPIO connection, XPT2046 Touch Controller
