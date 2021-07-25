@@ -1,7 +1,10 @@
 ### Raspiblitz
 ___
 
-<img src="link/../../images/raspiblitz_ex.jpeg"> 
+<p align="center">
+  <img src="link/../../images/raspiblitz_ex.jpeg"> 
+</p>
+
 
 **Raspiblitz es un HTM (hazlo tú mismo) Nodo de [Lightning](https://www.lopp.net/lightning-information.html) basado en [LND](https://github.com/LightningNetwork/lnd) (lightning network deamon) que funciona conjuntamente con un [Nodo Completo de Bitcoin](https://bitcoin.org/en/full-node) en un RaspberryPi con un SSD o HDD de 1TB y una pantalla táctil para una sencilla implementación y monotorización del nodo.**
 
