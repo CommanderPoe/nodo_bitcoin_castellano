@@ -3,15 +3,17 @@
 **Apoya la red de Bitcoin pero sobre todo reclama total soberanía y no dependas de ningún tercero para verificar tus propias transacciones y controlar tu saldo.**
 ___
 
-Ejemplo: Proyecto **Raspiblitz**
-<img src="link/to/../../images/raspiblitz_ex.jpeg"> 
+**Donde no hay desiciones, no hay vida.**
+*J.J. Dewey*
+<img src="link/../images/nodos.jpeg"> 
 
 <br />
 
-#### Tabla de Contenido
-- [Intro](#intro)
+#### [Phone as a wallet](phonewallet.md)
+#### Tabla de Contenidos
+- Intro
 - Hardware Recomendado por:
-    - [Raspiblitz](#raspiblitz)
+    - [Raspiblitz](raspiblitz/README.md)
     - [Umbrel](#umbrel)
     - Equipo de Samourai 
     - Mynode
@@ -30,31 +32,6 @@ Dicho esto, esta guía la escribimos principalmente para los usuarios que se ave
 La razón de esto es que se han dado multiples casos en los que el usuario compró (por ejemplo) el SSD de una marca recomendada por un proyecto y a la vez compró la carcasa del SSD recomendada por otro proyecto y esto llevó a ciertas incompatibilidades. No siempre es el caso, pero es probable, por ende se aconseja comprar hardwares que juntos funcionan correctamente.
 ___
 
-**Hardware Recomendado por <a name="raspiblitz">[*Raspiblitz*](https://github.com/rootzoll/raspiblitz):**</a> €217,62
-
-
-- RaspberryPi 4 4GB (o 8GB) | **4GB = €71.83, 8GB = €92.50** [*Amazon ES link 8GB*](https://www.amazon.es/dp/B07TC2BK1X)
-- Fuente de alimentación USB-C, 5.1V, >=3A | **€11.70** [*Amazon ES link*](https://www.amazon.es/dp/B07TZ89BT7)
-- 1TB SSD - SanDisk Plus Sata III | **€79.99** [*Amazon ES link*](https://www.amazon.es/dp/B07D998212)
-- Carcasa SSD - UGREEN 2.5" Externa USB 3.0 | **€17.99** [*Amazon ES link*](https://www.amazon.es/dp/B06XWSDGP6)
-- MicroSD 32GB - Samsung PRO Endurance microSDHC UHS-I U1 | **€13.99** [*Amazon ES link*](https://www.amazon.es/dp/B07CY3QSST)
-- Setronics - Caja Negra Armor Case | **€22.12** [*Amazon ES link*](https://www.amazon.es/dp/B07VP6GB4G)
-
-Opcional aconsejado por raspiblitz, pantallas LCD (solo si te decides por este proyecto):
-- LCD - 3.5" RPi Display, GPIO connection, XPT2046 Touch Controller
-- Quimat 3,5'' Zoll Inch Touch
-- ELEGOO Display 3.5" Zoll TFT LCD
-- kuman 3.5 Inch Touch Screen TFT Monitor
-
-<br />
-
-Para montar un nodo con raspiblitz sigue la siguiente guía (en inglés, trabajaré para traducirla): [Raspiblitz_gitub_page](https://github.com/rootzoll/raspiblitz#assemble-your-raspiblitz)
-
-Si deseas apoyar el proyecto y comprar un raspiblitz listo para usar puedes hacerlo aquí: [shop.fulmo.org](https://shop.fulmo.org/product-category/raspiblitz/) 
-___
-
-
-<a name="umbrel"></a> Umbrel
 
 **Hardware Recomendado por [*Umbrel*](https://getumbrel.com/#start):** €217,62
 
