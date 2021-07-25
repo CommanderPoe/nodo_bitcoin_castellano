@@ -14,7 +14,7 @@ ___
 - Hardware Recomendado por:
     - [Raspiblitz](#raspiblitz)
     - [Umbrel](#umbrel)
-    - Equipo de Samourai (*TODO*) 
+    - [Samourai](#samourai)
     - Mynode (*TODO*) 
     - S9 (*TODO*)
     - Recomendado por la comunidad castellana de Nodo Bitcoin (*TODO*)  
@@ -55,11 +55,13 @@ Opcional aconsejado por raspiblitz, pantallas LCD (solo si te decides por este p
 
 <br/>
 
-Para montar un nodo con raspiblitz sigue la siguiente guía (en inglés, trabajaré para traducirla): [Raspiblitz_github](https://github.com/rootzoll/raspiblitz#assemble-your-raspiblitz)
+Para montar un nodo con raspiblitz usa la siguiente guía (en inglés, trabajaré para traducirla): [Raspiblitz_github](https://github.com/rootzoll/raspiblitz#assemble-your-raspiblitz)
 
 Si deseas apoyar el proyecto y comprar un raspiblitz listo para usar puedes hacerlo aquí: [shop.fulmo.org](https://shop.fulmo.org/product-category/raspiblitz/) 
 
 Más info en castellano en el futuro [AQUÍ](raspiblitz/README.md)
+
+                        
 
 <br/>
 <br/>
@@ -79,17 +81,41 @@ Con respecto al hardware recomendado por Umbrel, los links redirigen a Amazon . 
 - Fuente de alimentación USB-C, 5.1V, >=3A | **€11.70** [*Amazon ES link*](https://www.amazon.es/dp/B07TZ89BT7)
 - Carcasa Flirc Raspberry Pi 4 | **€21.90** [*Amazon ES link*](https://www.amazon.es/Flirc-Raspberry-Pi-4-Case/dp/B07WG4DW52)
 
-Opcional aconsejado por raspiblitz, pantallas LCD (solo si te decides por este proyecto):
-- LCD - 3.5" RPi Display, GPIO connection, XPT2046 Touch Controller
-- Quimat 3,5'' Zoll Inch Touch
-- ELEGOO Display 3.5" Zoll TFT LCD
-- kuman 3.5 Inch Touch Screen TFT Monitor
-
 <br />
 
-Para montar un nodo con umbrel sigue la siguiente guía (en inglés, trabajaré para traducirla): [Umbrel_webpage](https://getumbrel.com/#start).
+Para montar un nodo con umbrel usa la siguiente guía (en inglés, trabajaré para traducirla): [Umbrel_webpage](https://getumbrel.com/#start).
 
 Si deseas más información técnica acerca del proyecto puedes consultar su [github_oficial](https://github.com/getumbrel).
+
+Más info en castellano en el futuro [AQUÍ](umbrel/README.md)
+
+<br />
+<br />
+
+**Hardware Recomendado por <a name="samourai">[*Samourai*](https://ronindojo.io):**</a> 
+
+Total a gastar: **€324.01** con todos los componentes.
+
+
+- RaspberryPi 4 4GB (o 8GB) | **4GB = €50.83, 8GB = €69.99** [*Kubii 8GB*](https://www.kubii.es/raspberry-pi-3-2-b/2955-raspberry-pi-4-modelo-b-8gb-0765756931199.html)
+    - Los otros 2 resellers donde recomiendan comprar son: [tiendatec](https://www.tiendatec.es/raspberry-pi/gama-raspberry-pi/1231-raspberry-pi-4-modelo-b-8gb-765756931199.html) y [raspipc](https://www.raspipc.es/index.php?ver=tienda&accion=verArticulosFamilia&idFamilia=3)
+- Geekworm X825 V2 - Carcasa + Fan | **€26.89** [*Amazon ES link*](https://www.amazon.es/Geekworm-X825-C8-Cooling-Support-Raspberry/dp/B09295FHBW)
+- Geekworm X735 Botón de encendido y función de uto Enfriamiento | **€28.89** [*Amazon ES link*](https://www.amazon.es/Geekworm-Raspberry-Management-Shutdown-Expansion/dp/B07NLR49L1)
+- GeekPi Sata Storage placa de expansión X825 (solo Pi 4) | **€40.99** [Amazon ES link](https://www.amazon.es/GeeekPi-Raspberry-Storage-Pulgadas-expansión/dp/B086JTH3RP)
+- GeekPi DC 5V 4A Fuente Alimentación | **16.99** [Amazon ES link](https://www.amazon.es/GeeekPi-Alimentación-Adaptador-Raspberry-Management/dp/B088M1Q7GF)
+- Scandisk 16GB Industrial MicroSD | **€26.27** [Amazon ES link](https://www.amazon.es/SanDisk-Industrial-MicroSDHC-SDSDQAF3-016G-I-Everything/dp/B085GL7GR5)
+- Samsung SSD 870 EVO 1TB SATA | **€113.99** [Amazon ES link](https://www.amazon.es/Samsung-Intelligent-Magician-Software-Internal/dp/B08PC5DKZQ) 
+
+<br/>
+
+Para montar un nodo con ronindojo sigue la siguiente guía (en inglés, trabajaré para traducirla): [ronindojo_webpage](https://ronindojo.io)
+
+Si deseas contribuir con el proyecto de alguna forma puedes hacerlo aquí: [code.samourai](https://code.samourai.io/ronindojo) 
+
+Más info en castellano en el futuro [AQUÍ](samourai/README.md)
+
+<br/>
+<br/>
 
 
 *CONTINUARÁ...*
