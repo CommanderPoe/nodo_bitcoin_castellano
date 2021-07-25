@@ -8,11 +8,21 @@ Ejemplo: Proyecto **Raspiblitz**
 
 <br />
 
-#### Hardware necesario
+#### Tabla de Contenido
+- [Intro](#intro)
+- Hardware Recomendado por:
+    - [Raspiblitz](#raspiblitz)
+    - [Umbrel](#umbrel)
+    - Equipo de Samourai 
+    - Mynode
+    - S9
+    - Add others...
+
+<a name="intro"></a> **Intro**
 
 Primeramente, es necesario destacar que para tener tu propio nodo Bitcoin no necesitas hardware extra como un RaspberryPi o Arduino o RockPro. Simplemente instalando [*Bitcoin Core*](https://bitcoin.org/en/download) (una aplicación completa del cliente de Bitcoin) en cualquier ordenador de mesa o laptop vieja disponible que no le des uso cuotidiano sería más que suficiente.
 
-Dicho esto, esta guía la escribimos principalmente para los usuarios que se aventuran en el mundo de bitcoin y desean construir su propio nodo utilizando una RaspberryPi. Este tipo de hardware (Barato, Cómodo y Sencillo) nos permiten instalar el cliente y encima de este otras aplicaciones como [*Lightning Network*](https://www.lopp.net/lightning-information.html) y formar así parte de la red de Bitcoin.
+Dicho esto, esta guía la escribimos principalmente para los usuarios que se aventuran en el mundo de bitcoin y desean construir su propio nodo utilizando una RaspberryPi. Este tipo de hardware (Barato, Cómodo y Sencillo) nos permiten instalar el cliente y encima de este otras aplicaciones como [*Lightning Network*](https://www.lopp.net/lightning-information.html) (*recursos de lightning, Jameson Lopp*) y formar así parte de la red de Bitcoin.
 
 *El hardware compartido está probado y aprobado por la comunidad [*Nodo Bitcoin*](https://t.me/NodoBitcoin) pero bajo ningún concepto nos hacemos cargo de eventuales problemas que presenten los dispositivos aconsejados. No tenemos ninguna afiliacion con las companias que venden dichos productos.*
 
@@ -20,7 +30,8 @@ Dicho esto, esta guía la escribimos principalmente para los usuarios que se ave
 La razón de esto es que se han dado multiples casos en los que el usuario compró (por ejemplo) el SSD de una marca recomendada por un proyecto y a la vez compró la carcasa del SSD recomendada por otro proyecto y esto llevó a ciertas incompatibilidades. No siempre es el caso, pero es probable, por ende se aconseja comprar hardwares que juntos funcionan correctamente.
 ___
 
-**Hardware Recomendado por [*Raspiblitz*](https://github.com/rootzoll/raspiblitz):** €217,62
+**Hardware Recomendado por <a name="raspiblitz">[*Raspiblitz*](https://github.com/rootzoll/raspiblitz):**</a> €217,62
+
 
 - RaspberryPi 4 4GB (o 8GB) | **4GB = €71.83, 8GB = €92.50** [*Amazon ES link 8GB*](https://www.amazon.es/dp/B07TC2BK1X)
 - Fuente de alimentación USB-C, 5.1V, >=3A | **€11.70** [*Amazon ES link*](https://www.amazon.es/dp/B07TZ89BT7)
@@ -41,6 +52,9 @@ Para montar un nodo con raspiblitz sigue la siguiente guía (en inglés, trabaja
 
 Si deseas apoyar el proyecto y comprar un raspiblitz listo para usar puedes hacerlo aquí: [shop.fulmo.org](https://shop.fulmo.org/product-category/raspiblitz/) 
 ___
+
+
+<a name="umbrel"></a> Umbrel
 
 **Hardware Recomendado por [*Umbrel*](https://getumbrel.com/#start):** €217,62
 
